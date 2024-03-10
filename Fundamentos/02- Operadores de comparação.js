@@ -17,4 +17,4 @@ console.log(10>=10);
 console.log(10<10);
 
 // <= (menor ou igual)
-console.log(10<=10);
+console.log(10<=9);
