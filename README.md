@@ -1,7 +1,7 @@
 # JavaScript-Pratices
 
 ![License](https://img.shields.io/badge/Code%20License-MIT-green.svg) 
-![learning](https://img.shields.io/badge/SQL-learning-green.svg)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 ---
